@@ -39,7 +39,7 @@ Kendi aralarında bağlantılı ağlar anlamına gelmektedir. İnternetin teknik
 
 *IP (Internet Procotol) - Adresleme sisteminden sorumludur.*
 
-IP Adresi, internetin teknik alt yapısını kuran serivs sağlayıcıları tarafından internet kullanıcılarına verilen kimlik numarasıdır. Bunlar 0 ile 255 sayıları arasıdna değişen, genellikle noktalı onluk (decimal) formatta göserilen sayılardır. (Örn: 78.135.111.233)
+IP Adresi, internetin teknik alt yapısını kuran servis sağlayıcıları tarafından internet kullanıcılarına verilen kimlik numarasıdır. Bunlar 0 ile 255 sayıları arasıdna değişen, genellikle noktalı onluk (decimal) formatta göserilen sayılardır. (Örn: 78.135.111.233)
 
 **IP Adresi, dinamik ve statik olmak üzere ikiye ayrılır;**
 
