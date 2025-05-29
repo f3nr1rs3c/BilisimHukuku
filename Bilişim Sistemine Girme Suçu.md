@@ -12,3 +12,5 @@ Teşebbüs : suça elverişli hareketlerle, doğrudan doğruya icraaya başlayı
 İştırak: tek kişi tarafından işlenebilen bir suçun, birden fazla kişi tarafından işbirliği içinde işlenmesidir. Hakimiyet kuranlar faildir. Hakimiyet kurmaksızın failiye yardım edenler. Yardım eden olarak, sorumludur. 
 
 İçtima: bilişim sistemine girme suçunun zincirleme suç şeklinde, işlenmesi mümkündür. Örneğin tek bir suç işleme kararının icrası kapsamında aynı kişiye ait. Değişik bilişim sistemlerine veya aynı kişiye ait tek bir bilişim sistemlerinin değişik parçalarına giren zincirleme suç hükümlerine girer ve İçtima hükümleri uygulanmaz. Ya da ağırlaştırıcı süreçleri oluşturuyorsa. 
+
+Bozma, verileri yok etme veya değiştirme suçudur, Bilişim sisteminin ve bireyin mal varlığının güvenliğidir. 
