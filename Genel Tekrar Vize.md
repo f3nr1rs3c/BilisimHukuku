@@ -30,7 +30,7 @@ Kanun’un 1. maddesine göre bu yasanın amaç ve kapsamı; içerik sağlayıc�
 Bu yasanın amacı, kamu hizmeti niteliğini haiz, ancak işletmeciler tarafından karşılanmasında mali güçlük bulunan evrensel hizmetin sağlanması, yürütülmesi ve elektronik haberleşme sektörü ile bu Kanun kapsamında belirlenen diğer alanlarda evrensel hizmet yükümlülüğünün yerine getirilmesine ilişkin usul ve esasları belirlemektir.
 
 #### Bilişim,
-bilgi ve iletişim kelimelerinin bir araya gelmesi sonucunda ortaya çıkmıştır. Hem veirlerin işlenmesini (veri işlemi) hem de bilgi işlemin sonucunun aktarılmasını (veri iletişimi) ifade eden bir kavramdır. Teknik olarak her bilgisayar bir bilişim sistemi olmakla birlikte, her bilişim sistemi bilgisayar olarak kabul edilmemelidir.
+bilgi ve iletişim kelimelerinin bir araya gelmesi sonucunda ortaya çıkmıştır. Hem verilerin işlenmesini (veri işlemi) hem de bilgi işlemin sonucunun aktarılmasını (veri iletişimi) ifade eden bir kavramdır. Teknik olarak her bilgisayar bir bilişim sistemi olmakla birlikte, her bilişim sistemi bilgisayar olarak kabul edilmemelidir.
 
 ## İnternet (Interconnected Networks)
 Kendi aralarında bağlantılı ağlar anlamına gelmektedir. İnternetin teknik alt yapısı, internet üzerindeki veri iletişimi omurga (backbone) olarak adlandırılan ana iletişim hatları üzerinden sağlanır.
